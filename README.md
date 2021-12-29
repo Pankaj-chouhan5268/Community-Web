@@ -33,4 +33,6 @@ The website serves as a platform for users to ask questions and answer and thoug
     <li>ORM</li>
   </ul>
   <h3>ER Diagram</h3>
-  <img src="Images/ER.png">
+  <img src="images/ER.png">
+  <h3>Activity Diagram</h3>
+  <img src="images/Activity.png">
