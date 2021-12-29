@@ -12,3 +12,25 @@ The website serves as a platform for users to ask questions and answer and thoug
     <li>When there is an error in coding or any difficulty in any problem it will help you to resolve it.</li>
     <li>Accumulating Knowledge</li>
   </ul>
+<h3> Hardware System Specification</h3>
+  <ul>
+    <li>Intel Pentium 4 or later</li>
+    <li>2 Gb RAM</li>
+    <li>Operating system (Windows10 / Linux)</li>
+  </ul>
+  <h3> Software System Specification</h3>
+  <ul>
+    <li>Netbeans IDE</li>
+    <li>Hibernate 5.1 jar</li>
+    <li>MySQL Connector jar</li>
+    <li>Apache</li>
+  </ul>
+  <h3>Technologies Used</h3>
+  <ul>
+    <li>HTML & CSS</li>
+    <li>JSP</li>
+    <li>JavaScript</li>
+    <li>ORM</li>
+  </ul>
+  <h3>ER Diagram</h3>
+  <img src="Images/ER.png">
