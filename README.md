@@ -36,3 +36,10 @@ The website serves as a platform for users to ask questions and answer and thoug
   <img src="images/ER.png">
   <h3>Activity Diagram</h3>
   <img src="images/Activity.png">
+  <h3>DFD Level-0</h3>
+  <img src="images/DFD-0.png">
+  <h3>DFD Level-1</h3>
+  <img src="images/DFD-1.png">
+<h3>DFD Level-2</h3>
+  <img src="images/DFD-2.png">
+
