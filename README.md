@@ -32,13 +32,6 @@ The website serves as a platform for users to ask questions and answer and thoug
     <li>JavaScript</li>
     <li>ORM</li>
   </ul>
-  <h3>Limitations</h3>
-  <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-  </ul>
   <h3>ER Diagram</h3>
   <img src="images/ER.png">
   <h3>USE case Model</h3>
