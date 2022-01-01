@@ -57,3 +57,17 @@ The website serves as a platform for users to ask questions and answer and thoug
 <h3>DFD Level-2</h3>
   <img src="images/DFD-2.png">
 
+<h3>Limitations</h3>
+  <ul>
+    <li>If a user posts a question, it is not known that after how much time he will get his response and whether it will be received or not is not confirmed.</li>
+    <li>If a user posts a question, it will not be edited or deleted directly by the user.</li>
+    <li>We cannot post questions through multimedia like in the form of photo, poster, video or audio.</li>
+    <li>User can't see what all questions user following.</li>
+    <li>User can't see all the answers which user liked or commented upon.</li>
+  </ul>
+  <h3>Future Enhancement</h3>
+  <ul>
+    <li>We will add another feature of social media in which user can know current affairs and daily news.</li>
+    <li>We will be able to ask questions through multimedia.</li>
+    <li>We will create a function in which companies can post their promises.</li>
+  </ul>
