@@ -71,3 +71,18 @@ The website serves as a platform for users to ask questions and answer and thoug
     <li>We will be able to ask questions through multimedia.</li>
     <li>We will create a function in which companies can post their promises.</li>
   </ul>
+<h3>Project Screenshots</h3>
+  <ul>
+    <li><img src="Screenshots/1Home.png"><br></li>
+    <li></li>    
+    <li></li>    
+    <li></li>    
+    <li></li>   
+    <li></li>   
+    <li></li>   
+    <li></li>   
+    <li></li>   
+    <li></li>    
+    <li></li>    
+    <li></li>
+  </ul>
