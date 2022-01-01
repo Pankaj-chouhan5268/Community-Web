@@ -73,16 +73,19 @@ The website serves as a platform for users to ask questions and answer and thoug
   </ul>
 <h3>Project Screenshots</h3>
   <ul>
-    <li><img src="Screenshots/1Home.png"><br></li>
-    <li></li>    
-    <li></li>    
-    <li></li>    
-    <li></li>   
-    <li></li>   
-    <li></li>   
-    <li></li>   
-    <li></li>   
-    <li></li>    
-    <li></li>    
-    <li></li>
+    <li><img src="Project_ScreenShots/1Home.png"><br></li>
+    <li><img src="Project_ScreenShots/2Signup.png"><br></li>    
+    <li><img src="Project_ScreenShots/3Login.png"><br></li>    
+    <li><img src="Project_ScreenShots/4PostQuestion.png"><br></li>    
+    <li><img src="Project_ScreenShots/5PostedQuestionByUser.png"><br></li>   
+    <li><img src="Project_ScreenShots/6AnswerTheQuestion.png"><br></li>   
+    <li><img src="Project_ScreenShots/7PostedQuestion_In_UserProfile.png"><br></li>
+    <li><img src="Project_ScreenShots/8ReviewQuestions.png"><br></li>   
+    <li><img src="Project_ScreenShots/9SearchQuestion.png"><br></li>   
+    <li><img src="Project_ScreenShots/10SearchedQuestion.png"><br></li>    
+    <li><img src="Project_ScreenShots/11CreateGroup.png"><br></li>    
+    <li><img src="Project_ScreenShots/12profile.png"><br></li>  
+    <li><img src="Project_ScreenShots/13Help.png"><br></li>  
+    <li><img src="Project_ScreenShots/14about.png"><br></li>  
+    <li><img src="Project_ScreenShots/15Services_Team.png"><br></li>
   </ul>
